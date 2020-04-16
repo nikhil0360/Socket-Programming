@@ -1,0 +1,31 @@
+1 + 1::2;3;4::1
+2 + 3::3;4;5::3
+5 + 5::10;11;12::1
+12 + 23::34;24;35::3
+22 + 3::25;24;26::1
+20 + 50::60;70;80::2
+22 + 22::34;33;44::3
+1 - 1::1;0;2::2
+10 - 101::-91;-90;-1::1
+101 + 101::200;202;204::2
+11 + 21::31;32;33::2
+14 + 11::24;25;26::2
+2 * 2::4;8;2::1
+Name the currency used in Japan::Taka;Dinar;Ngultrum;Yen::4
+Which colors must be mixed together to make green::Orange and blue;Red and blue;Blue and yellow;Black and yellow::3
+The chief ore of Aluminium is::Iron;Cryolite;Bauxite;Haematite::3
+What is the capital of India::Delhi;Maharashtra;Andra Pradesh;Rajasthan::1
+What is the Italian word for PIE::torta;Pasta;Patty;Pizza::1
+Water boils at 212 Units at which scale::Fahrenheit;Celsius;Rankine;Kelvin::1
+Which sea creature has three hearts::Dolphin;Octopus;Walrus;Seal::2
+How many bones does an adult human have::206;208;201;196::1
+How many wonders are there in the world::7;8;10;4::1
+What element does not exist::Xf;Re;Si;Pa::4
+How many states are there in India::24;29;30;31::2
+Who invented the telephone::A.G Bell;John Wick;Thomas Edison;G Marconi::1
+Who is Loki::God of Thunder;God of Dwarfs;God of Mischief;God of Gods::3
+Who was the first Indian female astronaut::Sunita Williams;Kalpana Chawla;None of them;Both of them::2
+What is the smallest continent::Asia;Antarctic;Africa;Australia::4
+How many players are on the field in baseball::6;7;9;8::3
+Hg stands for::Mercury;Hulgerium;Argenine;Halfnium::1
+Who gifted the Statue of Libery to the US::Brazil;France;Wales;Germany::2
